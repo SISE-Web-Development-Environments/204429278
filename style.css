@@ -1,0 +1,59 @@
+body
+{
+	color: black;
+	background-color: AliceBlue;
+	background-repeat: repeat;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	margin: auto;
+	text-align: center;
+}
+#menu
+{
+	background: DarkRed;
+	font-size: 20px;
+	position: fixed;
+	width: 99%;
+	height: 35px;
+	border: 1px solid DarkRed;
+	padding: 10px;
+}
+
+h1
+{
+	color: DarkRed;
+	font-size: 30px;
+	text-decoration: underline;
+}
+h2
+{
+	font-size: 20px;
+}
+a:link
+{
+  color: white;
+	text-decoration: none
+}
+a:visited
+{
+  color: white;
+}
+a:hover
+{
+  color: blue;
+}
+a:active
+{
+  color: darkblue;
+}
+section
+{
+  margin: auto;
+  width: 70%;
+}
+#diff {
+	text-align: right;
+	direction: rtl;
+}
+
+
+
